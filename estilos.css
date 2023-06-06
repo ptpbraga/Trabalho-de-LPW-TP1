@@ -42,22 +42,22 @@ a:visited {
     margin-left: 400px;
 }
 #x {
-    width: 100px;
+    width: 200px;
 }
 #galo {
-    width: 600px;
+    width: 1000px;
 }
 #cruzeiro {
-    width: 250px;
+    width: 450px;
 }
 div {
     display: inline-block;
 }
 .cruzeiro {
     float: left;
-    margin-left: 600px;
+    margin-left: 150px;
 }
 .galo {
     float: right;
-    margin-right: 500px;
+    margin-bottom: 150px;
 }
