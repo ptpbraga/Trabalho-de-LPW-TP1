@@ -1,0 +1,59 @@
+body {
+    background-image: url(imgstp1/publicosfundo.jpg);
+    background-size: cover;
+    min-height: 100%;
+}
+#cru {
+    width: 350px;
+}
+#galo {
+    width: 350px;
+}
+header {
+    background-color: lightblue;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 15%;
+    position: sticky;
+    top: 0;
+}
+footer {
+    background-color: gray;
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 15%;
+    position: sticky;
+    bottom: 0;
+    margin-top: 535px;
+}
+div {
+    display: flex;
+    flex-direction: column;
+    float: right;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+ol {
+    float: left;
+    margin-top: 150px;
+    margin-left: 200px;
+    background-color: black;
+    color: white;
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 15%;
+    font-size: 24px;
+}
+#imgbotao {
+    width: 50px;
+    position: fixed;
+    right: 0;
+    top: 0;
+    background-color: white;
+    border-radius: 15%;
+}
