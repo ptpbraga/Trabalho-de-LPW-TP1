@@ -1,0 +1,46 @@
+header {
+    background-color: rgb(98, 143, 158);
+    color: white;
+    text-align: center;
+    border-radius: 20%;
+    position: sticky;
+    top: 0;
+}
+#imgbotao {
+    width: 50px;
+    position: fixed;
+    right: 20px;
+    top: 20px;
+    background-color: rgba(255, 255, 255, 0.842);
+    border-radius: 50%;
+}
+body {
+    background-image: url(imgstp1/resultadosfundo.jpg);
+    background-size: cover;
+    height: 100%;
+}
+#galo {
+    background-color: black;
+    color: white;
+    float: right;
+    margin-right: 50px;
+    margin-top: 160px;
+    opacity: 0.8;
+}
+#cruzeiro {
+    background-color: rgb(50, 50, 194);
+    color: white;
+    float: left;
+    margin-left: 50px;
+    margin-top: 100px;
+    font-size: 20px;
+    opacity: 0.9;
+}
+img {
+    width: 400px;
+    display: block;
+    margin: auto;
+}
+#resultado {
+    font-size: 20px;
+}
