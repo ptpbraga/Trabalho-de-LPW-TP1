@@ -1,5 +1,5 @@
 body {
-    background-image: url(imgstp1/confrontosfundo.jpg);
+    background-image: url(imgstp1/confrontosfundo.png);
     background-size: cover;
     min-height: 100%;
 }
@@ -67,8 +67,8 @@ a:visited {
 #imgbotao {
     width: 50px;
     position: fixed;
-    right: 0;
-    top: 0;
-    background-color: white;
-    border-radius: 15%;
+    right: 20px;
+    top: 20px;
+    background-color: rgba(255, 255, 255, 0.842);
+    border-radius: 50%;
 }
