@@ -1,0 +1,42 @@
+header {
+    background-color: rgba(0, 0, 255, 0.363);
+    color: white;
+    text-align: center;
+    border-radius: 40%;
+    position: sticky;
+    top: 0;
+}
+#imgbotao {
+    width: 50px;
+    position: fixed;
+    right: 20px;
+    top: 20px;
+    background-color: rgba(255, 255, 255, 0.842);
+    border-radius: 50%;
+}
+body {
+    background-image: url(imgstp1/fundocruzeiro.png);
+    background-size: cover;
+    min-height: 100%;
+    background-repeat: no-repeat;
+}
+img {
+    width: 350px;
+}
+p {
+    font-size: 30px;
+    color: white;
+}
+#esq {
+    float: left;
+    margin-left: 100px;
+}
+#dir {
+    float: right;
+    margin-right: 100px;
+}
+#meio {
+    position: fixed;
+    bottom: 0;
+    left: 500px;
+}
