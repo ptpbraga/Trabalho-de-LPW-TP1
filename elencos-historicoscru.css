@@ -23,7 +23,7 @@ body {
 img {
     width: 350px;
 }
-p {
+.ano {
     font-size: 30px;
     color: white;
 }
@@ -39,4 +39,43 @@ p {
     position: fixed;
     bottom: 0;
     left: 500px;
+}
+.elenco {
+    font-size: 15px;
+}
+#doismiltres {
+    position: absolute;
+    margin-top: 100px;
+    margin-right: 825px;
+    margin-left: 100px;
+    color: white;
+    opacity: 0;
+}
+#doismiltres:hover {
+    opacity: 1;
+    background-color: blue;
+}
+#milnove {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 820px;
+    margin-right: 115px;
+    color: white;
+    opacity: 0;
+}
+#milnove:hover {
+    opacity: 1;
+    background-color: blue;
+}
+#doismiltreze {
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 500px;
+    margin-right: 450px;
+    color: white;
+    opacity: 0;
+}
+#doismiltreze:hover {
+    opacity: 1;
+    background-color: blue;
 }
