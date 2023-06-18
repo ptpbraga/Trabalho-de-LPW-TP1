@@ -40,5 +40,23 @@
         <a href="confronto.html">Veja mais sobre o confronto</a>
       </p>
     </footer>
+    <aside class="backdrop">
+        <video src="videos/intro.mp4" autoplay muted>
+        </video>
+      </aside>
+      <button id="unmute">🔉</button>
+    <script>
+        let tempo = 6000;  
+        setTimeout(() => {
+          document.querySelector('.backdrop').classList.add('desaparecido');
+          document.querySelector('main').classList.remove('desaparecido');
+        }, tempo);
+  
+  
+        document.querySelector('#unmute').addEventListener('click', (e) => {
+          document.querySelector('.backdrop video').muted = false;
+          e.currentTarget.classList.add('desaparecido');
+        });
+      </script>
   </body>
 </html>
