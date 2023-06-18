@@ -1,0 +1,74 @@
+header {
+    background-color: rgba(0, 59, 252, 0.842);
+    color: white;
+    text-align: center;
+    border-radius: 40%;
+    position: sticky;
+    top: 0;
+}
+
+body{
+    background-image: url(imgstp1/fundocruzeiro.png);
+}
+
+#esq {
+    float: left;
+    margin-left: 10px;
+    width: 350px;
+    margin-top: 40px;
+}
+
+#meio {
+    float: center;
+    margin-left: 200px;
+    width: 200px;
+    margin-top: 50px;
+}
+
+#dir {
+    float: right;
+    margin-right: 120px;
+    width: 220px;
+    margin-top: -380px;
+}
+
+#pt{
+    font-size: 20px;
+    color: white;
+    float: left;
+    margin-left: -190px;
+    margin-top: 350px;
+}
+
+#pj{
+    font-size: 20px;
+    color: white;
+    float: center;
+    margin-left: 610px;
+    margin-top: 15px;
+}
+
+#pf{
+    font-size: 20px;
+    color: white;
+    float: right;
+    margin-right: 190px;
+    margin-top: -60px;
+}
+
+
+#rodape{
+    background-color: rgba(0, 47, 255, 0.884);
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 15%;
+    position: absolute;
+    bottom: 0;
+    width: 1315px;
+}
+
+div{
+    text-shadow:  1px 1px 2px black, 0 0 1em rgba(0, 0, 255, 0.199), 0 0 0.2em rgba(0, 0, 255, 0.199);
+}
