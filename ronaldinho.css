@@ -1,0 +1,14 @@
+h1 {
+    font-size: 100px;
+    margin-top: 300px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#imgbotao {
+    width: 50px;
+    position: fixed;
+    right: 20px;
+    top: 20px;
+    background-color: rgba(255, 255, 255, 0.842);
+    border-radius: 50%;
+}
