@@ -1,3 +1,7 @@
+* {
+    transition: 0.5s;
+}
+
 #principal {
     background-color: blue;
     color: white;
@@ -19,8 +23,9 @@
     background-image: url(imgstp1/Cruzeiro4k.jpg);
     background-size:cover;
     background-repeat: no-repeat;
-    min-height: 100%;
+    min-height: 100vh;
     width:auto;
+    background-position: center;
 } 
 
 #imgbotao {
@@ -73,4 +78,25 @@
     padding-top: 5px;
     padding-bottom: 5px;
     font-size: 30px;
+}
+
+@media (max-width: 650px) {
+    section {
+        display: flex;
+        flex-direction: column;
+        gap: 60px;
+    }
+    #elenco-his {
+        margin: 0px;
+    }
+    #elenco-atual{
+        margin: 0px;
+    }
+    
+    #idolos{
+        margin: 0;
+    }
+    #titulos{
+        margin: 0px;
+    }
 }
