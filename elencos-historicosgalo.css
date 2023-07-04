@@ -19,6 +19,7 @@ body {
     background-size: cover;
     min-height: 100%;
     background-repeat: no-repeat;
+    overflow: hidden;
 }
 img {
     width: 350px;
