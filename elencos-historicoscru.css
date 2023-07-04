@@ -45,8 +45,8 @@ img {
 }
 #doismiltres {
     position: absolute;
-    margin-top: 100px;
-    margin-right: 825px;
+    margin-top: 97px;
+    margin-right: 910px;
     margin-left: 100px;
     color: white;
     opacity: 0;
@@ -58,7 +58,7 @@ img {
 #milnove {
     position: absolute;
     margin-top: 200px;
-    margin-left: 820px;
+    margin-left: 905px;
     margin-right: 115px;
     color: white;
     opacity: 0;
@@ -69,9 +69,9 @@ img {
 }
 #doismiltreze {
     position: absolute;
-    margin-top: 400px;
+    margin-top: 350px;
     margin-left: 500px;
-    margin-right: 450px;
+    margin-right: 550px;
     color: white;
     opacity: 0;
 }
