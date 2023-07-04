@@ -12,6 +12,7 @@ body {
     background-image: url(imgstp1/confrontosimpfundo.png);
     background-size: cover;
     min-height: 100%;
+    overflow: hidden;
 }
 #cru {
     float: left;
