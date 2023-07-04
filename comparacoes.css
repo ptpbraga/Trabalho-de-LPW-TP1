@@ -9,14 +9,14 @@ header{
     top: 0;
 }
 body {
-    background-image: url(imgstp1/confrontoscomparacoesfundo.jpg);
+    background-image: url(imgstp1/confrontosimpfundo.png);
     background-size: cover;
     min-height: 100%;
 }
 #cru {
-    float: right;
+    float: left;
     margin-top: 200px;
-    margin-right: 200px;
+    margin-left: 200px;
     background-color: lightblue;
     color: blue;
     text-align: left;
@@ -37,9 +37,9 @@ footer {
     margin-top: 575px;
 }
 #galo {
-    float: left;
+    float: right;
     margin-top: 200px;
-    margin-left: 200px;
+    margin-right: 200px;
     background-color: black;
     color: white;
     text-align: left;
