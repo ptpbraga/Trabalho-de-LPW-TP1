@@ -27,6 +27,7 @@ body {
     background-image: url(imgstp1/mineirao.jpg);
     background-size: cover;
     min-height: 100%;
+    overflow: hidden;
 }
 a {
     color:white;
