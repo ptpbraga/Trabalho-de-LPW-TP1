@@ -97,7 +97,7 @@ div {
   }
   
   .backdrop video {
-    width: 115%;
+    width: 100%;
   }
   .backdrop.desaparecido + #unmute {
     display: none;
