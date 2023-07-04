@@ -26,6 +26,7 @@
     min-height: 100vh;
     width:auto;
     background-position: center;
+    overflow: hidden;
 } 
 
 #imgbotao {
