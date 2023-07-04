@@ -46,7 +46,7 @@ p {
 #doismiltres {
     position: absolute;
     margin-top: 175px;
-    margin-right: 825px;
+    margin-right: 925px;
     margin-left: 100px;
     color: white;
     opacity: 0;
@@ -58,7 +58,7 @@ p {
 #milnove {
     position: absolute;
     margin-top: 100px;
-    margin-left: 820px;
+    margin-left: 900px;
     margin-right: 115px;
     color: white;
     opacity: 0;
@@ -71,7 +71,7 @@ p {
     position: absolute;
     margin-top: 400px;
     margin-left: 500px;
-    margin-right: 450px;
+    margin-right: 525px;
     color: white;
     opacity: 0;
 }
